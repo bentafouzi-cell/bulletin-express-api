@@ -29,3 +29,4 @@ def calculer_bulletin(donnees: EleveRequest):
         "moyenne_generale": moyenne,
         "details": details
     }
+   # 🚀 Test du trigger automatique pour Bulletin Express !
